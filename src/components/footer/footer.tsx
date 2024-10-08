@@ -4,18 +4,18 @@ function Footer() {
         <div className="container mx-auto flex justify-between items-start">
           {/* Left side */}
           <div>
-            <h2 className="text-white text-xl font-bold">ETRIUM</h2>
+            <h2 className="text-white text-xl font-bold"><a href="etrium.com.br">ETRIUM</a></h2>
             <p className="text-gray-400 mt-2">Otimize sua rotina jurídica com nosso software especializado!</p>
           </div>
           
           {/* Middle Navigation */}
           <div className="text-white">
             <ul className="space-y-2 font-bold">
-              <li><a href="#" className="hover:text-gray-400">Home</a></li>
-              <li><a href="#" className="hover:text-gray-400">Sobre nós</a></li>
-              <li><a href="#" className="hover:text-gray-400">Serviços</a></li>
-              <li><a href="#" className="hover:text-gray-400">Planos</a></li>
-              <li><a href="#" className="hover:text-gray-400">Contato</a></li>
+              <li><a href="#home" className="hover:text-gray-400">Home</a></li>
+              <li><a href="#about" className="hover:text-gray-400">Sobre nós</a></li>
+              <li><a href="#service" className="hover:text-gray-400">Serviços</a></li>
+              <li><a href="#planos" className="hover:text-gray-400">Planos</a></li>
+              <li><a href="#contact" className="hover:text-gray-400">Contato</a></li>
             </ul>
           </div>
           

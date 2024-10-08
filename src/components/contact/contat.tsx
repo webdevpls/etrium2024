@@ -23,7 +23,7 @@ function Contact() {
             <form className="absolute top-0 left-0 right-0 bottom-0 flex flex-col items-start justify-center space-y-4 px-14">
               <input 
                 type="email" 
-                placeholder="Seu email" 
+                placeholder="Digite seu email" 
                 className="w-[80%] max-w-[500px] p-4 rounded-xl bg-[#1F1F2B] text-white border-none outline-none"
               />
               <input 

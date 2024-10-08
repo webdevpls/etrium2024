@@ -58,12 +58,12 @@ function Box() {
                 <DialogHeader>
                     <DialogTitle>
                         <div className='flex gap-3 flex-col'>
-                        <div className='flex flex-row items-center gap-2 text-gray cursor-pointer'>
-                            <h1>Gestão de Processos</h1>
+                        <div className='flex flex-row items-center gap-2 text-gray cursor-pointer font-bold'>
+                            <h1>Suporte especializado</h1>
 
                         </div>
                         <div>
-                            <h3 className='text-sm'>Maximize a eficiência e a eficácia operacional com nossa abordagem inovadora em Gestão de Processos. Nossa solução especializada é projetada para otimizar fluxos de trabalho.
+                            <h3 className='text-sm'>Nosso suporte especializado está sempre à disposição para oferecer todo o auxílio necessário aos nossos clientes. Seja para solucionar dúvidas ou fornecer orientações técnicas, estamos comprometidos em garantir um atendimento de qualidade e eficiente
 
                             </h3>
                         </div>
@@ -94,10 +94,10 @@ function Box() {
                     <DialogTitle>
                         <div className='flex gap-3 flex-col'>
                         <div className='flex flex-row items-center gap-2 text-gray cursor-pointer'>
-                            <h1>Suporte especializado</h1>
+                            <h1>Automação Documental</h1>
                         </div>
                         <div>
-                            <h3 className='text-sm'>Maximize a eficiência e a eficácia operacional com nossa abordagem inovadora em Gestão de Processos. Nossa solução especializada é projetada para otimizar fluxos de trabalho.
+                            <h3 className='text-sm'>Nosso suporte especializado está sempre à disposição para oferecer todo o auxílio necessário aos nossos clientes. Seja para solucionar dúvidas ou fornecer orientações técnicas, estamos comprometidos em garantir um atendimento de qualidade e eficiente
 
                             </h3>
                         </div>
