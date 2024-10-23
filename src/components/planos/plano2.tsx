@@ -1,5 +1,5 @@
 import { FaCheckCircle, FaTimesCircle } from "react-icons/fa"
-import { Button } from "../ui/button"
+import { ButtonShad } from "../ui/buttonShad"
 
 
 function Plano2() {
@@ -57,10 +57,10 @@ function Plano2() {
         
       </div>
       <div className="items-center justify-center flex py-48">
-          <Button variant={"outline"}>
+          <ButtonShad variant={"outline"}>
             Quero esse plano!
     
-            </Button>
+            </ButtonShad>
           </div>
     </div>
 
